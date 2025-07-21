@@ -4,23 +4,14 @@ A simple yet functional **Calendar App** built with **Flutter**. This app offers
 
 ## 🚀 Features
 
-- 🔐 **Email & Password Authentication**
-  - Login using email and password  
-  - Register new users with email verification via link  
-  - Logout securely  
-
-- 🎨 **UI Themes**
-  - Light and dark modes
-
-- 📋 **Navigation**
-  - Side menu in the Home Page
-
-- 🌐 **OAuth Support**
-  - Google login  
-  - Facebook login
-
-- ⚡ **Startup Splash Screen**
-  - Flash screen on app startup
+- Login using email and password  
+- Register new users with email verification via link  
+- Logout securely  
+- Light and dark modes
+- Side menu in the Home Page
+- Google OAuth
+- Facebook OAuth
+- Flash screen on app startup
 
 ## 🛠 Tech Stack
 
